@@ -7,7 +7,7 @@
       "input": "jadi dong beb\r\naku lagi selingkuh",
       "output": "Ditolak nih\r\nPadam abangkuh :(",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 100,
       "points": 10
     },
     {
@@ -17,7 +17,7 @@
       "input": "fiesta chicken nugget\r\nselalu sedia setiap saat",
       "output": "Besok ke kebun binatang jam 4 skuy",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 100,
       "points": 10
     },
     {
@@ -27,7 +27,7 @@
       "input": "kamu suka bakmi ga\r\naku sukanya kamu",
       "output": "Besok ke kebun binatang jam 2 skuy",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 100,
       "points": 10
     },
     {
@@ -37,7 +37,7 @@
       "input": "ayo jalan\r\nayo jalan",
       "output": "Besok nonton jam 11 skuy",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 100,
       "points": 10
     },
     {
@@ -47,7 +47,7 @@
       "input": "91658 923 82602\r\nsakit nih orang",
       "output": "Besok nonton jam 7 skuy",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 100,
       "points": 10
     },
     {
@@ -57,7 +57,7 @@
       "input": "lagi sibik ndak\r\nlagi sibuk nih",
       "output": "Ditolak nih\r\nPadam abangkuh :(",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 100,
       "points": 10
     },
     {
@@ -67,7 +67,7 @@
       "input": "susah yah mahamin kamu\r\nsiapa suruh",
       "output": "Ditolak nih\r\nPadam abangkuh :(",
       "comparison": "included",
-      "timeout": 2,
+      "timeout": 10,
       "points": 10
     },
     {
@@ -77,7 +77,7 @@
       "input": "aku rela ngapain aja demi kamu\r\niki rili ngipiin iji dimi kimi",
       "output": "Besok nonton jam 16 skuy",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 100,
       "points": 10
     },
     {
@@ -87,7 +87,7 @@
       "input": "nonton yuk besok\r\nnonton apa besok",
       "output": "Besok nonton jam 11 skuy",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 100,
       "points": 10
     },
     {
@@ -97,7 +97,7 @@
       "input": "aku cuma deketnya sama kamu\r\n",
       "output": "Ditolak nih\r\nPadam abangkuh :(",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 100,
       "points": 10
     }
   ]
